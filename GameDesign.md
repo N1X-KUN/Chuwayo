@@ -17,3 +17,7 @@ Lobby - Where the user can pre select which character he/she wants to use or equ
 Shop - The user may purchase the characters that are currently in the game, the user uses coins as currency ingame to buy characters and even cosmetics (different skins for the character) and theirs the daily random shop where it sells characters special ability for half price but its random. The user can also find the "TOP UP" feature where the user actually pays money to add on more ingame coins to buy more stuff without the need of grinding the game for extra coins.
 
 Credits - Well as the name says its a credit it shows the team members picture and the roles they have contributed in making the game
+
+basically thats the general main menu plan ideas... 
+
+so where do we begin? make the game mechanics first? I have uploaded the sprites i want to turn into characters in the assets folder inside a sub folder named as character sprites, just create a md instruction for me to follow as i have forgotten how to use unity here.
